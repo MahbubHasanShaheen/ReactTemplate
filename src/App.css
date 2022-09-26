@@ -36,3 +36,65 @@
     transform: rotate(360deg);
   }
 }
+
+.company-info h2{
+  color: #282c34;
+  width: 19%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border-bottom: 5px solid brown;
+}
+.company-info p{
+  text-align: left;
+}
+
+
+.f2f2f2{
+  background-color: #f2f2f2;
+}
+.f2f2f2 p{text-align: justify;}
+
+.f2f2f2 h4{
+  width: 25%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border-bottom: 5px solid goldenrod;
+}
+
+.service h2{
+  width: 25%;
+  margin: 0 auto;
+  padding: 25px;
+}
+.service p{text-align: justify;}
+
+.service h4{
+  margin: 0 auto;
+  border-bottom: 5px solid green;
+  padding: 10px;
+}
+.footer h4{
+  color: white;
+}
+
+.footer p{color: azure;text-align: justify;}
+.footer a{text-decoration: none;}
+
+.about-us h2{
+ width: 30%;
+ margin:0 auto;
+ border-bottom: 5px solid gray;
+ padding: 10px;
+ margin-bottom:20px;
+}
+
+.contact-us h2{text-align: center; padding: 15px;}
+.copy p{
+  text-align: center;
+}
+
+
+.links  p{
+  text-align: center;
+}
+.links{color: #61dafb;}
